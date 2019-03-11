@@ -1,0 +1,13 @@
+{
+	"cda": {
+		"link": "https://www.cda.nl/actueel/nieuws/",
+        "rss": "https://www.cda.nl/actueel.rss"
+	},
+	"vvd": {
+		"link": "https://cms.vvd.nl/nieuws/"
+	},
+	"pvda": {
+		"link": "https://www.pvda.nl/nieuws/feed"
+	}
+
+}
